@@ -49,5 +49,12 @@ This app allows users to manage personal tasks (Create, Read, Update, Delete) wi
 This project is a part of a hackathon run by  
 https://www.katomaran.com
 
+Install dependencies:
+   flutter pub get
+Run the app:
+   flutter run
+
+
+
 
   
