@@ -1,1 +1,20 @@
+# Flutter build and generated files
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Android specific
 android/app/google-services.json
+
+# iOS specific
+ios/Runner/GoogleService-Info.plist
+
+# IDE files
+.vscode/
+*.iml
+.idea/
+
+# Other
+*.log
