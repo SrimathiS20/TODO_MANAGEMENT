@@ -29,7 +29,10 @@ This app allows users to manage personal tasks (Create, Read, Update, Delete) wi
 ## How to Run
 
 1. Install [Flutter SDK](https://docs.flutter.dev/get-started/install).
-2. Clone this repository
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/SrimathiS20/TODO_MANAGEMENT.git
+
 
 ---
 
